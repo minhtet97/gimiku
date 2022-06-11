@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: numatlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fabb9a80063d2c24d9a15501bfbe700b, type: 3}
+    - {fileID: 2800000, guid: 2044ea835968ed040828cfe9e0c2a6f6, type: 3}
+    - {fileID: 2800000, guid: 6805b1e4bdd04ab4f8d2ff529f9ff148, type: 3}
+    - {fileID: 2800000, guid: d0e99944228260742ab8f6265fcba96f, type: 3}
+    - {fileID: 2800000, guid: fc07a684cc7ca1d45a497414c13cbd7f, type: 3}
+    - {fileID: 2800000, guid: a7fd407dfb8c5ab4c81c2d9c3a686728, type: 3}
+    - {fileID: 2800000, guid: 5d7983ab2a70e7d47af954ba506cf391, type: 3}
+    - {fileID: 2800000, guid: fee0ca18f26dd694d869f4240d317119, type: 3}
+    - {fileID: 2800000, guid: ff3e5561d78822e4990cd869496396b3, type: 3}
+    - {fileID: 2800000, guid: bc5dc06bf8cf7d344ab51ba0e22d9852, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fabb9a80063d2c24d9a15501bfbe700b, type: 3}
+  - {fileID: 21300000, guid: ff3e5561d78822e4990cd869496396b3, type: 3}
+  - {fileID: 21300000, guid: 2044ea835968ed040828cfe9e0c2a6f6, type: 3}
+  - {fileID: 21300000, guid: d0e99944228260742ab8f6265fcba96f, type: 3}
+  - {fileID: 21300000, guid: fc07a684cc7ca1d45a497414c13cbd7f, type: 3}
+  - {fileID: 21300000, guid: 6805b1e4bdd04ab4f8d2ff529f9ff148, type: 3}
+  - {fileID: 21300000, guid: fee0ca18f26dd694d869f4240d317119, type: 3}
+  - {fileID: 21300000, guid: bc5dc06bf8cf7d344ab51ba0e22d9852, type: 3}
+  - {fileID: 21300000, guid: 5d7983ab2a70e7d47af954ba506cf391, type: 3}
+  - {fileID: 21300000, guid: a7fd407dfb8c5ab4c81c2d9c3a686728, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 0
+  - 8
+  - 1
+  - 3
+  - 4
+  - 2
+  - 7
+  - 9
+  - 6
+  - 5
+  m_RenderDataMap: {}
+  m_Tag: numatlas
+  m_IsVariant: 0
